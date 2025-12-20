@@ -1,0 +1,11 @@
+X:1
+T:Two Voice Example
+M:4/4
+L:1/4
+K:C
+V:1 name="Melody"
+V:2 name="Bass" clef=bass
+V:1
+C D E F|G A B c|
+V:2
+C, E, G, C|G, F, E, D,|

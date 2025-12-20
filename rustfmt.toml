@@ -1,0 +1,7 @@
+unstable_features = true
+
+# `let (lorem, ipsum, _, _) = (1, 2, 3, 4);` becomes `let (lorem, ipsum, ..) = (1, 2, 3, 4);`
+condense_wildcard_suffixes = true
+
+group_imports = "StdExternalCrate"
+imports_granularity = "Crate"
